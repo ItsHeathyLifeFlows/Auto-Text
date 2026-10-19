@@ -1,6 +1,6 @@
 # Typing Animation Effect
 
-A simple JavaScript typing animation that types and erases words one character at a time, creating a dynamic text effect for websites.
+A simple JavaScript typing Animation that types and erases words one character at a time, creating a dynamic text effect for websites.
 
 ## Features
 
